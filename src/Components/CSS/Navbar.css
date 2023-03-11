@@ -1,0 +1,12 @@
+.navbar{
+    background-color: rgb(6, 28, 50);
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    opacity: 0.9;
+}
+.navbar-brand{
+    font-size:xx-large;
+    font-family: 'Cedarville Cursive', cursive;
+    
+}
